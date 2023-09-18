@@ -1,1 +1,3 @@
-# 2021-Olympics-Azure-Data-Engineering-Project
+# 2021 Tokyo Olympics Azure Data Engineering Project
+
+### Project Architecture
